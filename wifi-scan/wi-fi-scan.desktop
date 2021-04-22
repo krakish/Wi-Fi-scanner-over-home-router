@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Wi-Fi Scanner
+GenericName=Wi-Fi Scanner
+Comment=wi-fi scan
+Exec=/home/cte/bin/wifi-scan/wifi_scan.sh
+Icon=/home/cte/bin/wifi-scan/python_scripts/icon.gif
+Terminal=false
+Categories=Development;IDE;Electronics;
+MimeType=text/iad;
+Keywords=embedded electronics;electronics;avr;microcontroller;
+StartupWMClass=processing-app-Base 
